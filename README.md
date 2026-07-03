@@ -3,9 +3,11 @@
 Colección de ejercicios y retos prácticos de JavaScript, organizados por guías. Cada reto refuerza un concepto del lenguaje, con foco en identificar y corregir errores comunes.
 
 ## 📂 Estructura
+```
 Retos_JavaScript/
 ├── Guia-1/
 └── Guia-2/
+```
 ### Guia-1
 Fundamentos de JavaScript: variables, funciones, arrays y sus métodos (`map`, `filter`, `forEach`, `some`, `every`, `find`), y debugging de errores comunes (tipos de dato, callbacks mal invocados, nombres de propiedades inconsistentes).
 
