@@ -49,4 +49,25 @@ Bases del lenguaje: tipos de datos y variables, operadores (incluyendo ternarios
 
 ### Guia-2 — Intermedio y avanzado
 - **Objetos y arrays**: objetos literales, arrays de objetos, y métodos de array (`map`, `reduce`, `some`/`every`, `filter`, `forEach`/`find`/`findIndex`, mutadores vs no mutadores).
-- **Desestructuración y funciones avanzadas**: spread/rest, funciones puras y
+- **Desestructuración y funciones avanzadas**: spread/rest, funciones puras y callbacks, encadenamiento funcional (method chaining).
+- **Programación orientada a objetos**: clases, atributos y métodos de instancia, propiedades privadas con getters/setters.
+- **Manejo de errores**: excepciones personalizadas y `try/catch`.
+- **Recursividad**: funciones recursivas para resolver problemas sin bucles.
+- **Asincronía**: `async/await`, promesas modernas, `Promise.all`/`allSettled`/`race`/`any`.
+- **Módulos modernos**: `import`/`export` en JavaScript (ES Modules).
+
+## 🎯 Objetivo
+
+Practicar JavaScript de forma progresiva, desde fundamentos hasta conceptos avanzados, resolviendo retos y depurando errores comunes (condiciones lógicas invertidas, nombres de propiedades inconsistentes, valores de retorno faltantes, entre otros).
+
+## 🛠️ Cómo ejecutar
+
+```bash
+node ruta/al/archivo.js
+```
+
+> Los ejercicios de módulos (`import`/`export`) requieren `"type": "module"` en el `package.json`, o extensión `.mjs`.
+
+## 🧑‍💻 Autor
+
+**Arantlg**
